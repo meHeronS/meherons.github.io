@@ -89,3 +89,6 @@ Conhecimentos em **Python, C#, JavaScript, Dart, HTML, CSS e SQL**, explorados e
 
 ## 🌐 Idiomas
 - **Inglês:** Intermediário/Avançado (B2)  
+
+> Este site/currículo é de uso pessoal e informativo. Não copie, distribua ou reutilize o conteúdo sem autorização do autor.
+
