@@ -1,4 +1,4 @@
-# Curriculo - Português Brasil
+#### Curriculo - Português Brasil
 
 # Heron Victor Vieira da Silva  
 📞 (31) 9 9401-1417  
@@ -103,8 +103,10 @@ Certificado em AWS Cloud Computing, Cisco IT Essentials e Cibersegurança, busco
 
 > Este site/currículo é de uso pessoal e informativo. Não copie, distribua ou reutilize o conteúdo sem autorização do autor.
 
+---
+---
 
-# Cover Letter - English
+#### Cover Letter - English version
 
 # Heron Victor Vieira da Silva  
 📞 +55 (31) 9 9401-1417  
