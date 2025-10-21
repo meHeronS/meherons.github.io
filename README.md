@@ -7,14 +7,20 @@
 ---
 
 ## 🎯 Objetivo Profissional
+
 Busco oportunidades para consolidar minha carreira em Tecnologia da Informação, com foco em desenvolvimento de software, automação, qualidade de software (QA), testes e análise de dados (BI). Até aqui, minha trajetória profissional foi predominantemente em suporte técnico e implantação, funções que me deram uma base sólida em análise, resolução de problemas e contato direto com sistemas e usuários. Agora, meu objetivo é direcionar esse repertório para atuar de forma estratégica em projetos de desenvolvimento, inovação e eficiência tecnológica, estabelecendo uma carreira consistente e de longo prazo na área de TI.
 
 ---
 
 ## 📝 Resumo Profissional
-Profissional em formação em **Sistemas de Informação (PUC Minas)** e em **Jogos Digitais (UNA)** de forma complementar, com trajetória marcada por experiências em suporte técnico, testes de software, implantação de sistemas e análise de falhas. Possuo conhecimentos acadêmicos em **programação, Machine Learning, Deep Learning e automação de processos** e práticos em banco de dados, além de vivência em ambientes corporativos que exigem organização, comunicação e visão analítica.  
 
-Conhecimentos em **Python, C#, JavaScript, Dart, HTML, CSS e SQL**, explorados em projetos acadêmicos de desenvolvimento **front-end, back-end e mobile (Flutter)**, o que me permite ter uma visão integrada do ciclo de software. Certificado em **AWS Cloud Computing, Cisco IT Essentials e Cibersegurança**, busco aplicar meus conhecimentos técnicos e interpessoais em novos desafios, somando eficiência, inovação e resultados concretos às empresas.
+Profissional em formação em Sistemas de Informação (PUC Minas) e em Jogos Digitais (UNA) de forma complementar, com trajetória marcada por experiências em suporte técnico, testes de software, implantação de sistemas e análise de falhas. 
+
+Possuo conhecimentos acadêmicos em programação, Machine Learning, Deep Learning e automação de processos e práticos em banco de dados, além de vivência em ambientes corporativos que exigem organização, comunicação e visão analítica. 
+
+Conhecimentos em Python, C#, JavaScript, Dart, HTML, CSS e SQL, explorados em projetos acadêmicos de desenvolvimento front-end, back-end e mobile (Flutter), o que me permite ter uma visão integrada do ciclo de software. 
+
+Certificado em AWS Cloud Computing, Cisco IT Essentials e Cibersegurança, busco aplicar meus conhecimentos técnicos e interpessoais em novos desafios, somando eficiência, inovação e resultados concretos às empresas.
 
 ---
 
@@ -22,13 +28,13 @@ Conhecimentos em **Python, C#, JavaScript, Dart, HTML, CSS e SQL**, explorados e
 
 ### Assistente de Tecnologias Educacionais  
 **Escola SESI Alvimar Carneiro de Rezende – Contagem/MG | 09/2025 – Atual**  
-- Gestão de equipamentos tecnológicos, assegurando o funcionamento de recursos digitais e multimídia aplicados em sala de aula.  
-- Suporte a educadores na aplicação de conteúdos digitais, promovendo maior engajamento dos alunos.  
-- Apoio técnico em softwares educacionais e dispositivos, incluindo configuração, suporte e resolução de falhas técnicas.  
-- Orientação a alunos e professores sobre o uso adequado de plataformas digitais, ambientes virtuais de aprendizagem e ferramentas de colaboração.  
-- Apoio em projetos pedagógicos tecnológicos, integrando novas soluções ao ensino aprendizagem.  
-- Apoio em oficinas e treinamentos em tecnologia para educadores.  
-- Apoio e orientação às equipes de robótica na programação e execução de projetos utilizando LEGO SPIKE Prime, auxiliando tanto no desenvolvimento lógico quanto no planejamento dos projetos.  
+  - Organização, guarda e controle de equipamentos de educação tecnológica.
+  - Suporte à equipe pedagógica no planejamento e execução de projetos e atividades de educação tecnológica, com foco no uso de equipamentos e plataformas.
+  - Auxílio a professores com tecnologias em sala de aula, oficinas de robótica e treinamento de equipes.
+  - Utilização de equipamentos e plataformas educacionais
+  - Participação em capacitações e treinamentos nas tecnologias adotadas.
+  - Treinamento, acompanhamento e orientação de equipes em competições FIRST (FLL, FTC, FRC) e STEM Racing, abrangendo planejamento, capacitação, desenvolvimento técnico (montagem e programação), gestão de projetos, documentação e apresentações.
+  - Apoio à unidade e ao SESI MG na utilização de recursos tecnológicos em eventos e ações de educação. 
 
 ### Tutor EAD – Polo Betim  
 **Faculdade UNA – Betim/MG | 03/2025 – 09/2025**  
@@ -73,6 +79,7 @@ Conhecimentos em **Python, C#, JavaScript, Dart, HTML, CSS e SQL**, explorados e
 ---
 
 ## 🎓 Formação Acadêmica
+
 - **Bacharelado em Sistemas de Informação (em andamento)** – PUC Minas | Betim/MG – 7º período  
 - **Tecnólogo em Jogos Digitais (em andamento)** – Faculdade UNA (Transferência PUC ➝ UNA) | Betim/MG – 3º período  
 - **Curso Técnico em Manutenção Mecânica Industrial** – SENAI | Betim/MG  
@@ -80,6 +87,7 @@ Conhecimentos em **Python, C#, JavaScript, Dart, HTML, CSS e SQL**, explorados e
 ---
 
 ## 📜 Certificações
+
 - AWS Cloud Computing  
 - Cisco IT Essentials  
 - Cisco Cibersegurança  
@@ -88,6 +96,7 @@ Conhecimentos em **Python, C#, JavaScript, Dart, HTML, CSS e SQL**, explorados e
 ---
 
 ## 🌐 Idiomas
+
 - **Inglês:** Intermediário/Avançado (B2)  
 
 > Este site/currículo é de uso pessoal e informativo. Não copie, distribua ou reutilize o conteúdo sem autorização do autor.
