@@ -3,6 +3,7 @@
 # Heron Victor Vieira da Silva
 📞 (31) 9 9401-1417
 ✉️ heron.s@outlook.com
+🔗 [GitHub](github.com/meherons )
 🔗 [LinkedIn](https://www.linkedin.com/in/heron-silva)
 📍 Betim/MG
 
