@@ -111,8 +111,9 @@ Meu conhecimento técnico está totalmente direcionado para a **evolução estra
 # Heron Victor Vieira da Silva
 📞 +55 (31) 9 9401-1417
 ✉️ heron.s@outlook.com
+🔗 [GitHub](https://github.com/meherons )
 🔗 [LinkedIn](https://www.linkedin.com/in/heron-silva)
-📍 Betim, MG – Brazil
+📍 Betim/MG
 
 ---
 
