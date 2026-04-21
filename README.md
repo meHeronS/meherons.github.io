@@ -76,6 +76,7 @@ Trabalho na área de TI há mais de 10 anos. Tenho experiência prática com man
 <p align="center">
   <sub>Heron Silva • 2026 • Desenvolvido com foco em excelência técnica.</sub>
 </p>
+
 </details>
 
 <br>
@@ -147,4 +148,5 @@ IT Professional with over 10 years of experience. Specialist in technical suppor
 <p align="center">
   <sub>Heron Silva • 2026 • Driven by technical excellence.</sub>
 </p>
+
 </details>
